@@ -1,2 +1,2 @@
 # University-Database
-University Database Management System using SQL and ERD modeling. Includes tables, relationships, queries, and normalization for managing students, courses, instructors, and enrollments.
+A group university database project designed and implemented using SQL and ERD modeling. The project includes creating tables, defining relationships, inserting data, and writing queries to manage students, courses, instructors, enrollments, schedules, and payments.
